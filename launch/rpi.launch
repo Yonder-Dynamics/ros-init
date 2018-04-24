@@ -1,0 +1,3 @@
+<launch output="screen">
+  <node pkg="procyon-motor-ctl" type="serial_motor_driver.py" name="serial_motor_driver"></node>
+</launch>
